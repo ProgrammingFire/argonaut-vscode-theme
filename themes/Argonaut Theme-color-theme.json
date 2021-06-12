@@ -16,7 +16,8 @@
     "tab.inactiveBackground": "#1a0038",
     "tab.inactiveForeground": "#fff",
     "editorGroup.dropBackground": "#00000081",
-    "editor.selectionBackground": "#0026ff71"
+    "editor.selectionBackground": "#0026ff71",
+    "editorCursor.foreground": "#ff0000"
   },
   "tokenColors": [
     {
