@@ -1,0 +1,22 @@
+{
+  "name": "argonaut",
+  "displayName": "Argonaut",
+  "publisher": "programmingfire",
+  "description": "Fresh Theme For Dark And Blue Theme Lovers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Argonaut Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Argonaut Theme-color-theme.json"
+      }
+    ]
+  }
+}
