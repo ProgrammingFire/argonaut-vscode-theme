@@ -6,7 +6,7 @@
   "readme": "README.md",
   "repository": "https://github.com/programmingfire/argonaut-vscode-theme",
   "description": "Fresh Theme For Dark And Blue Theme Lovers",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.57.0"
   },
